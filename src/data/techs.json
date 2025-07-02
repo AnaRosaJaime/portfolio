@@ -1,0 +1,18 @@
+[
+  { "icon": "⚛️", "name": "React" },
+  { "icon": "🟦", "name": "TypeScript" },
+  { "icon": "🟨", "name": "JavaScript" },
+  { "icon": "🅰️", "name": "Angular" },
+  { "icon": "🌐", "name": "HTML & CSS" },
+  { "icon": "🟢", "name": "Node.js" },
+  { "icon": "🍃", "name": "MongoDB" },
+  { "icon": "🗄️", "name": "SQL Server" },
+  { "icon": "🧪", "name": "Jest / Testing Library" },
+  { "icon": "🌲", "name": "Cypress" },
+  { "icon": "🔧", "name": "Git" },
+  { "icon": "📚", "name": "Storybook" },
+  { "icon": "☁️", "name": "AWS" },
+  { "icon": "📊", "name": "D3.js" },
+  { "icon": "🟣", "name": ".NET" },
+  { "icon": "🐍", "name": "Python" }
+]

@@ -1,0 +1,63 @@
+.card {
+  background-color: #0a0a0a;
+  color: #00ff00;
+  border: 1px solid #00ff00;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+  font-family: 'Courier New', monospace;
+  box-shadow: 0 0 10px rgba(0, 255, 0, 0.2);
+  transition: transform 0.2s ease;
+}
+
+.card:hover {
+  transform: scale(1.01);
+  box-shadow: 0 0 15px #00ff00;
+}
+
+.title {
+  font-size: 20px;
+  margin-bottom: 4px;
+  text-transform: uppercase;
+  color: #00ff00;
+}
+
+.role {
+  font-size: 14px;
+  color: #66ff66;
+  margin-bottom: 8px;
+}
+
+.impact {
+  font-size: 14px;
+  font-style: italic;
+  margin-bottom: 10px;
+}
+
+.stack {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 12px;
+}
+
+.tech {
+  background-color: rgba(0, 255, 0, 0.1);
+  border: 1px solid #00ff00;
+  border-radius: 4px;
+  padding: 2px 8px;
+  font-size: 12px;
+  color: #00ff00;
+}
+
+.taskList {
+  padding-left: 16px;
+  font-size: 13px;
+  list-style: none;
+  color: #00ff00;
+}
+
+.task::before {
+  content: '';
+  margin-right: 6px;
+}

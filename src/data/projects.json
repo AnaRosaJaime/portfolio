@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Omnipresent",
+    "role": "Senior Software Engineer",
+    "timeframe": "2022 – 2025",
+    "impact": "Reduced onboarding time by implementing dynamic country-based forms and reusable microfrontend architecture.",
+    "techStack": ["React", "Node.js", "TypeScript", "Python", "Nx", "AWS", "Cypress"],
+    "tasks": [
+      "Full-stack development of onboarding and time-off management features",
+      "Built a reusable React component library aligned with branding guidelines",
+      "Refactored monolithic application into modular microfrontends",
+      "Implemented unit and E2E tests using Jest and Cypress"
+    ]
+  },
+  {
+    "title": "Roche",
+    "role": "Principal Software Engineer",
+    "timeframe": "2018 – 2022",
+    "impact": "Trained teams across the company on React, testing, and microfrontends. Created company-wide frontend guidelines and a shared component platform.",
+    "techStack": [
+      "React",
+      "Redux",
+      "Storybook",
+      "D3",
+      "Node.js",
+      "TypeScript",
+      "Cypress",
+      "Jest",
+      "AWS",
+      "Material UI"
+    ],
+    "tasks": [
+      "Led a frontend community to share knowledge and promote standards",
+      "Designed and maintained internal Roche frontend code guidelines",
+      "Built reusable component and microfrontend libraries for internal teams",
+      "Delivered hands-on training and mentoring in modern frontend practices"
+    ]
+  },
+  {
+    "title": "Infinity – Roche",
+    "role": "Frontend Senior Consultant",
+    "timeframe": "2017 – 2018",
+    "impact": "Transformed a legacy monolith into modular microfrontends, improving scalability and deployment flexibility.",
+    "techStack": ["React", "Redux", "D3.js", "SASS", "Mocha", "Jasmine", "Node.js"],
+    "tasks": [
+      "Refactored React application into decoupled sub-applications",
+      "Developed real-time data visualizations using D3.js",
+      "Set up CI/CD, test automation and TypeScript build tooling",
+      "Optimized bundle performance and testing coverage"
+    ]
+  },
+  {
+    "title": "HP Cost Recovery",
+    "role": "Full Stack Senior Consultant",
+    "timeframe": "2016 – 2017",
+    "impact": "Designed and developed a global job tracking and reporting tool used across HP intranet environments.",
+    "techStack": ["Angular", "Electron", "Node.js", "MongoDB", "Webpack"],
+    "tasks": [
+      "Full-stack development of Angular + Electron-based tool",
+      "Database modeling and integration with MongoDB",
+      "Job tracking and report generation by user, department, and project",
+      "Integrated authentication and optimized for corporate deployment"
+    ]
+  },
+  {
+    "title": "ADP – Epayslips",
+    "role": "Full Stack Senior Consultant",
+    "timeframe": "2015 – 2016",
+    "impact": "Delivered two critical payroll management systems from scratch, improving internal HR operations and user access to historical payroll data for thousands of employees.",
+    "techStack": [
+      "Angular",
+      "ASP.NET",
+      "JavaScript",
+      "TypeScript",
+      "Node.js",
+      "MongoDB",
+      "Oracle SQL",
+      "LESS",
+      "Grunt",
+      "Jasmine",
+      "Karma",
+      "Selenium",
+      "JQuery",
+      "NServiceBus"
+    ],
+    "tasks": [
+      "Developed two full-featured Angular web applications for employee management and payslip history access",
+      "Led the frontend architecture definition ensuring scalability and testability",
+      "Designed and implemented responsive UI/UX with consistent brand identity",
+      "Integrated and manipulated data from MongoDB and Oracle databases",
+      "Implemented robust unit and integration testing with Karma, Jasmine, and Selenium"
+    ]
+  },
+  {
+    "title": "Sundio Group",
+    "role": "Full Stack Senior Consultant",
+    "timeframe": "2013 – 2015",
+    "impact": "Led a team of 3 developers to unify and maintain multiple booking websites under a single reusable framework.",
+    "techStack": ["ASP.NET", "AngularJS", "jQuery", "AJAX", "CSS", "HTML"],
+    "tasks": [
+      "Technical lead and development of both frontend and backend",
+      "Implemented MVP pattern in ASP.NET with LINQ and AJAX",
+      "Built responsive UI components and managed SEO performance",
+      "Integrated dynamic content using Endeca Developer Studio"
+    ]
+  },
+  {
+    "title": "Avanade (Mercedes-Benz & Barceló Viajes)",
+    "role": "Full Stack Developer",
+    "timeframe": "2010 – 2013",
+    "impact": "Contributed to critical internal applications for process automation and improved rental and reservation management systems used by enterprise clients.",
+    "techStack": [
+      "ASP.NET",
+      "MVC",
+      "Silverlight",
+      "LINQ",
+      "SQL Server",
+      "Entity Framework",
+      "AJAX",
+      "jQuery",
+      "ADO.NET",
+      "Windows Forms"
+    ],
+    "tasks": [
+      "Developed a Silverlight application to manage Mercedes-Benz rentals and contracts",
+      "Built a web platform to handle outsourced employee types and access rights",
+      "Designed SSIS packages for data migration (SQL Server → MySQL) at Barceló Viajes",
+      "Created a Windows Forms app to monitor hotel reservation load",
+      "Maintained and extended internal tools with reporting via SQL Server Reporting Services"
+    ]
+  }
+]
